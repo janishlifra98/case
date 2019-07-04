@@ -8,4 +8,4 @@ And verify successful login
 
 Examples:
 |username|password|
-|AlexUser|Alex@123|
+|lalitha|password123|
